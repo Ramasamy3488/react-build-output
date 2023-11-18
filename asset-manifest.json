@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "https://github.com/Ramasamy3488/react-build-output.git/static/css/main.f855e6bc.css",
+    "main.js": "https://github.com/Ramasamy3488/react-build-output.git/static/js/main.dceeb7b6.js",
+    "static/js/787.d4aba7ab.chunk.js": "https://github.com/Ramasamy3488/react-build-output.git/static/js/787.d4aba7ab.chunk.js",
+    "static/media/logo.svg": "https://github.com/Ramasamy3488/react-build-output.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "https://github.com/Ramasamy3488/react-build-output.git/index.html",
+    "main.f855e6bc.css.map": "https://github.com/Ramasamy3488/react-build-output.git/static/css/main.f855e6bc.css.map",
+    "main.dceeb7b6.js.map": "https://github.com/Ramasamy3488/react-build-output.git/static/js/main.dceeb7b6.js.map",
+    "787.d4aba7ab.chunk.js.map": "https://github.com/Ramasamy3488/react-build-output.git/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.dceeb7b6.js"
+  ]
+}
